@@ -1,7 +1,7 @@
 # IOSTaskTracker
 iOS Task Tracker App.
 
-Core Features
+Core Features:
 
 Task List View
 
